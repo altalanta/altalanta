@@ -8,14 +8,13 @@ I’m a data scientist with a ChemE + Pathobiology background who builds end-to-
 ---
 
 ## Portfolio (curated)
->  Artifacts are reproducible. Older learning repos are included but not representative.
+>  Older learning repos are included but not representative.
 
-### 1) Wearables Readiness (case study)
+### 1) Wearables Readiness (case study) - exploration of basics for wearable 
 - **Problem:** Can simple features from sleep/HR/HRV forecast a next-day “readiness” score?
 - **Approach:** Windowed time-series features → baseline logistic/linear models → calibration & subgroup error analysis → model card.
-- **Stack:** Python, pandas, scikit-learn, matplotlib, MLflow (optional), Streamlit
+- **Stack:** Python, pandas, scikit-learn, matplotlib, Streamlit
 - **Repo:** https://github.com/altalanta/physiology-oura-baseline  
-- **Demo:** **TODO** (Streamlit link)
 
 ### 2) RNA-seq State Transitions (bioinformatics)
 - **Problem:** Identify cell states and plausible transitions from bulk/single-cell RNA-seq.
@@ -27,7 +26,7 @@ I’m a data scientist with a ChemE + Pathobiology background who builds end-to-
 - **Problem:** Teams hand-wave power/sample size; experiments underperform.
 - **Approach:** Small, tested Python package + CLI for common power calcs with docs & examples.
 - **Stack:** Python, scipy/statsmodels, pytest, MkDocs, GitHub Actions
-- **Repo:** https://github.com/altalanta/Data_Analysis_Python (→ carve into `statdesign`)
+- **Repo:** https://github.com/altalanta/Data_Analysis_Python 
 
 
 
