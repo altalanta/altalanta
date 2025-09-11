@@ -1,6 +1,6 @@
 # Hi, I'm Altalanta
 
-I’m a data scientist with a ChemE + Pathobiology background who builds end-to-end, reproducible analytics and ML for biomedical and wearable data. I like turning ambiguous questions into measured decisions.
+I’m a data scientist with a ChemE + Pathobiology background who builds end-to-end, reproducible analytics and ML, with a particular interest in biomedical data analysis. I like interesting math puzzles and turning ambiguous questions into measured decisions.
 
 **Target roles:** Data Scientist · Applied ML · ML Engineer (data focus) · Bioinformatics/Data Science  
 **Sectors:** Healthtech/biotech, product analytics with real-world impact
